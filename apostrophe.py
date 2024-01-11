@@ -1,0 +1,1 @@
+print("king of coding requires focus")

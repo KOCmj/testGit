@@ -1,0 +1,4 @@
+import this 
+("the zen of pthon, by tim peters")
+stuff= "Updated August 15, 2023, by Emedo Destiny: The journey through the treacherous Grand Line is not for the faint of heart. It is filled with ardous challenges and unsurmountable obstacles and as a result, there are a lot of stories and characters that have inspired the fans with both their words and their actions. Among them is the titular protagonist, Luffy, who is freedom personalized. Luffy journey to become the Pirate King is filled with many emotional, powerful, and awe-inspiring moments. These moments have been immortalized with quotes that have stuck with many fans due to him being such a relatable character. Without further ado, here are some of Luffy best quotes"
+print(stuff.count("e"))
